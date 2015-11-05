@@ -21,6 +21,7 @@ Our goal is to make users to feel like using a single database system, which act
 --------------
 
 "숫자로 표시"
+
 0. Subset of ANSI-SQL
 0. Queries on multiple databases including Spark-SQL and Oracle, etc.
 0. SQL-based authorization
@@ -30,15 +31,15 @@ Our goal is to make users to feel like using a single database system, which act
 
 "기호로 표시"
 
-* 1
-* 2
-* 3
+* 11111111111
+* 22222222222
+* 33333333333
 
-```은
+"```"은
 
 ```
-1
-2
-3
-4
+1 1111111111111111
+2 2222222222222222
+3 3333333333333333
+4 4444444444444444
 ```
