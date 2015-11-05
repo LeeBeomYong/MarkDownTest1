@@ -6,7 +6,7 @@
 
 *글씨 굵게하기*	예) "**굵게**"
 
-'글씨 음영 씌우기' 예) "'음영'"
+`글씨 음영 씌우기` 예) "`음영`"
 
 
 **Octopus** is a unified SQL query interface for polyglot persistency system. Octopus is designed by SK Telecom and Bitnine.
@@ -34,7 +34,7 @@ Our goal is to make users to feel like using a single database system, which act
 * 2
 * 3
 
-"```"은
+```은
 
 ```
 1
