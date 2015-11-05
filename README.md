@@ -51,7 +51,7 @@ Our goal is to make users to feel like using a single database system, which act
 1. 수식으로 삽입하기:
 
 $$
-( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a})
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
 2. 문단 안에 바로 수식 삽입하기:
