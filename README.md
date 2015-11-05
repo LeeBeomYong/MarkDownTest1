@@ -1,7 +1,15 @@
-**Octopus Project**
-==============================
+제목("========")
+================
 
-**Octopus** is a unified SQL query interface for polyglot persistency system. Octopus is designed by SK Telecom and Bitnine.
+제목("--------")
+---------------
+
+*글씨 굵게하기*	예) "**굵게**"
+'글씨 음영 씌우기' 예) "'음영'"
+
+
+
+*Octopus** is a unified SQL query interface for polyglot persistency system. Octopus is designed by SK Telecom and Bitnine.
 It is currently under implementation.
 
 Octopus will provide Ansi-SQL interface over heterogeneous databases including Hadoop systems, RDBMS and many NoSQL systems.
@@ -10,10 +18,26 @@ It will also provide authentication and authorization features similar to regula
 Our goal is to make users to feel like using a single database system, which actually consists of several database systems.
 
 **Features**
-================
+--------------
 
-1. Subset of ANSI-SQL
-2. Queries on multiple databases including Spark-SQL and Oracle, etc.
-3. SQL-based authorization
-4. User authentication
-5. Unified schema view over various kinds of databases
+"숫자로 표시"
+0. Subset of ANSI-SQL
+0. Queries on multiple databases including Spark-SQL and Oracle, etc.
+0. SQL-based authorization
+0. User authentication
+0. Unified schema view over various kinds of databases
+
+
+"기호로 표시"
+* 1
+* 2
+* 3
+
+'''은
+
+'''
+1
+2
+3
+4
+'''
