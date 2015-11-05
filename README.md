@@ -1,3 +1,5 @@
+html header: <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 제목("========")
 ================
 
@@ -44,8 +46,6 @@ Our goal is to make users to feel like using a single database system, which act
 4 4444444444444444
 ```
 
-
-html header: <script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 
 1. 수식으로 삽입하기:
